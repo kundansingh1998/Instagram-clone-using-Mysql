@@ -1,3 +1,0 @@
-# Instagram-clone-using-Mysql
-
-
